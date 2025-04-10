@@ -3,6 +3,7 @@ public class Main{
         System.out.println("Hello World!");
 
         String name = "Shanum";
-        System.out.println("Hello " + name);
+        int age = 3;
+        System.out.println("Hello " + name + age);
     }
 }
